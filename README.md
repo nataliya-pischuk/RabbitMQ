@@ -26,7 +26,7 @@ $ pip install pika
 ![alt text](img/pika.JPG)
 
 Выполнение 1-го скрипта
-![alt text](img/script1.jpg)
+![alt text](img/script1.JPG)
 
 Скрин выполнения консумера
 ![alt text](img/cons.JPG)
