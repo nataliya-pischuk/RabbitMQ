@@ -67,4 +67,13 @@ $ rabbitmqadmin get queue='hello'
 
 ![alt text](img/status2.JPG)
 
+Создала политику на все очереди
+
+![alt text](img/ha-all.JPG)
+
+![alt text](img/ha-all-pol.JPG)
+
+Еще раз запустила измененный скрипт consumer.py
+
+![alt text](img/result.JPG)
  
