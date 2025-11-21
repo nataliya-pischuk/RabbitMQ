@@ -26,7 +26,7 @@ $ pip install pika
 ![alt text](img/pika.JPG)
 
 Выполнение 1-го скрипта
-![alt text](img/script1.JPG)
+![alt text](img/script1.jpg)
 
 Скрин выполнения консумера
 ![alt text](img/cons.JPG)
@@ -59,5 +59,5 @@ $ rabbitmqadmin get queue='hello'
 ## Решение
  У меня есть две виртуальные машины RabbitMQ запустила через docker-compose
  
-![alt text](img/clust.JPG)
+![alt text](img/clust.jpg)
  
