@@ -59,5 +59,5 @@ $ rabbitmqadmin get queue='hello'
 ## Решение
  У меня есть две виртуальные машины RabbitMQ запустила через docker-compose
  
-
+![alt text](img/clust.JPG)
  
