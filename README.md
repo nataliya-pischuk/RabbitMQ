@@ -58,12 +58,13 @@ $ rabbitmqadmin get queue='hello'
 
 ## Решение
  У меня есть две виртуальные машины RabbitMQ запустила через docker-compose
- 
+
+ ![alt text](img/clust.jpg)
 
 
 Вывод результата команды $ rabbitmqctl cluster_status
-![alt text](img/status1.jpg)
+![alt text](img/status1.JPG)
 
-![alt text](img/status2.jpg)
+![alt text](img/status2.JPG)
 
  
